@@ -385,6 +385,7 @@
     <Content Include="Global.asax" />
     <Content Include="images\mobileUI-site-nav-opener-bg.svg" />
     <Content Include="images\mobileUI-site-nav.svg" />
+    <Content Include="index.html" />
     <Content Include="js\config.js" />
     <Content Include="js\html5shiv.js" />
     <Content Include="js\jquery.min.js" />
